@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fractals-mandelbrot-SoranaA", "fractals-mandelbrot-SoranaA\fractals-mandelbrot-SoranaA.vcxproj", "{7CE47ECE-AD3E-4700-9778-D456B510C60E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CE47ECE-AD3E-4700-9778-D456B510C60E}.Debug|x64.ActiveCfg = Debug|x64
+		{7CE47ECE-AD3E-4700-9778-D456B510C60E}.Debug|x64.Build.0 = Debug|x64
+		{7CE47ECE-AD3E-4700-9778-D456B510C60E}.Release|x64.ActiveCfg = Release|x64
+		{7CE47ECE-AD3E-4700-9778-D456B510C60E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {717E61DA-648F-473A-8CC8-36B3A4B8BC77}
+	EndGlobalSection
+EndGlobal
